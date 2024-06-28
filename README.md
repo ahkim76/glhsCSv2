@@ -1,6 +1,2 @@
 # glhsCSv2
-https://ahkim76.github.io/glhsCSv2/
-https://ahkim76.github.io/glhsCSv2/
-https://ahkim76.github.io/glhsCSv2/
-https://ahkim76.github.io/glhsCSv2/
-https://ahkim76.github.io/glhsCSv2/
+website used for green level coding club 2022-2023
